@@ -15,4 +15,4 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div><br/>
 
-### Estou buscando me desenvolver e aprender cada vez mais na área de Front-End, mas no futuro pretendo conquistar meu sonho de me tornar um Desenvolvedor Full-Stack.
+### Estou buscando me desenvolver e aprender cada vez mais nas área de Front e Back End, com o sonho de no futuro me tornar um Desenvolvedor Full-Stack.
