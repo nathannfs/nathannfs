@@ -1,4 +1,4 @@
-### Olá! Eu sou o Nathan Ferreira ✋
+### Olá! Eu sou o Nathan Santos ✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-santos-58051b182/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathannferreira_/)
