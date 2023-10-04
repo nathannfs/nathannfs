@@ -1,18 +1,56 @@
-### Olá! Eu sou o Nathan Santos ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-santos-58051b182/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathannferreira_/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nathannfe)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=8A35FF&center=true&vCenter=true&width=600&lines=%F0%9F%96%90%F0%9F%8F%BB+Ol%C3%A1%2C+eu+sou+Nathan+Santos;%F0%9F%93%98+Estudante+de+Desenvolvimento+WEB;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Engenharia+de+Software" alt="Typing SVG" /></a>
+</div>
 
-![Nathannfs GitHub stats](https://github-readme-stats.vercel.app/api?username=nathannfs&show_icons=true&theme=dracula)
+ &nbsp;
+ &nbsp;
 
-### Tecnologias que estou estudando
+<p align="center"> Sou um desenvolvedor web iniciante, atualmente estudando ReactJS e Typescript, procuro me desenvolver cada vez mais na área e entrar no mercado de tecnologia para no futuro realizar meu sonho de ser um desenvolvedor Full Stack.</p>&nbsp;
 
-<div style="display: inline-block"><br>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="react js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</div><br/>
+## My Skills
 
-### Estou buscando me desenvolver e aprender cada vez mais nas área de Front e Back End, com o sonho de no futuro me tornar um Desenvolvedor Full-Stack.
+#### Main Stack:
+
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,express,js,html,css" />
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Secondary Stack:
+
+<img src="https://skillicons.dev/icons?i=cs,c,py,bootstrap" />
+
+#### Databases:
+
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+#### Workstation Tools:
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+<h3 align="center">:dart: Objetivos para 2023+ :dart:</h3>
+
+- Buscar desenvolver e aprimorar minhas soft/hard skills;
+- Desenvolver mais projetos para enriquecer meu portfólio;
+- Explorar novas linguagens de programação;
+- Ingressar no mercado de trabalho.
+
+&nbsp;
+&nbsp;
+
+<div  align="center" >
+    <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathannfs&theme=blue-white" />
+</div>
+
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/nathannferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:contato.nathann.santoss2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nathan-santos-58051b182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+ 
+
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23238E&height=120&section=footer"/>
