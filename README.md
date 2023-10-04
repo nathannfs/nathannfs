@@ -30,10 +30,13 @@
 
 <h3 align="center">:dart: Objetivos para 2023+ :dart:</h3>
 
+&nbsp;
+
 - Buscar desenvolver e aprimorar minhas soft/hard skills;
 - Desenvolver mais projetos para enriquecer meu portfólio;
 - Explorar novas linguagens de programação;
-- Ingressar no mercado de trabalho.
+- Ingressar no mercado de trabalho;
+- Começar meu próprio negócio.
 
 &nbsp;
 &nbsp;
