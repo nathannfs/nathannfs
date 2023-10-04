@@ -12,7 +12,7 @@
 
 #### Main Stack:
 
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,express,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,express,js,html,css,git" />
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -43,14 +43,9 @@
 </div>
 
 ## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/nathannferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+ 
 <a href = "mailto:contato.nathann.santoss2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nathan-santos-58051b182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
- 
-
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23238E&height=120&section=footer"/>
