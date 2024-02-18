@@ -34,7 +34,7 @@
 
 <img src="https://skillicons.dev/icons?i=vscode" />
 
-<h3 align="center">:dart: Objetivos para 2023+ :dart:</h3>
+<h3 align="center">:dart: Objetivos para 2024+ :dart:</h3>
 
 &nbsp;
 
