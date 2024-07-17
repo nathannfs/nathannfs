@@ -9,7 +9,7 @@
 <p align="center"> Sou um desenvolvedor web iniciante, atualmente estudando ReactJS e Typescript, procuro me desenvolver cada vez mais na área e entrar no mercado de tecnologia para no futuro realizar meu sonho de ser um desenvolvedor Full Stack.</p>&nbsp;
 
 <div align="center">
-  <a href="https://nathanfs.vercel.app/" target="_blank">
+  <a href="https://nathannfs.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/meu_site-nathanfs-A020F0.svg?&style=for-the-badge" alt="Meu site">
   </a>
 </div>
