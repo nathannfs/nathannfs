@@ -15,8 +15,9 @@
 
 Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Atualmente faço pós graduação em Engenharia de Software e faço cursos na plataforma Rocketseat. Meu objetivo é elevar meus conhecimentos no mercado de trabalho, misturando arte e código para criar experiências e soluções únicas.
 
-
 ## Habilidades Tecnológicas
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 💻 Aqui estão algumas das tecnologias que eu domino e estudo:
 
@@ -24,8 +25,6 @@ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. 
 
     [![My Skills](https://skillicons.dev/icons?i=javascript,java)](https://skillicons.dev)
     
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-  
 - Frameworks e Bibliotecas:
 
     [![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,styledcomponents)](https://skillicons.dev)
@@ -33,9 +32,11 @@ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. 
 - Dados:
 
     [![My Skills](https://skillicons.dev/icons?i=postgres,firebase,mongo)](https://skillicons.dev)
+  
 - Ferramentas e Tecnologias:
 
     [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,github,docker,prisma)](https://skillicons.dev)
+    
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
