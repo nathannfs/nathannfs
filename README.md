@@ -1,56 +1,49 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=8A35FF&center=true&vCenter=true&width=600&lines=%F0%9F%96%90%F0%9F%8F%BB+Ol%C3%A1%2C+eu+sou+Nathan+Santos;%F0%9F%93%98+Estudante+de+Desenvolvimento+WEB;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=8A35FF&center=true&vCenter=true&width=600&lines=%F0%9F%96%90%F0%9F%8F%BB+Ol%C3%A1%2C+eu+sou+Nathan+Santos;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Estudante+Engenharia+de+Software;%F0%9F%93%98+Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
 </div>
 
- &nbsp;
- &nbsp;
-
-<p align="center"> Sou um Desenvolvedor Full Stack iniciante, atualmente estudando ReactJS, Typescript e Node.js, procuro me desenvolver cada vez mais na área e entrar no mercado de tecnologia para no futuro realizar meu sonho de ser um Desenvolvedor Full Stack.</p>&nbsp;
+&nbsp;
 
 <div align="center">
   <a href="https://nathannfs.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/meu_site-nathanfs-A020F0.svg?&style=for-the-badge" alt="Meu site">
+    <img src="https://img.shields.io/badge/meu_site-nathanfs-A020F0.svg?&style=for-the-badge" alt="Meu site">
   </a>
 </div>
 
-## My Skills
+## Sobre mim
 
-#### Main Stack:
+Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Atualmente faço pós graduação em Engenharia de Software e faço cursos na plataforma Rocketseat. Meu objetivo é elevar meus conhecimentos no mercado de trabalho, misturando arte e código para criar experiências e soluções únicas.
 
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,express,js,html,css,git" />
+## Habilidades Tecnológicas
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+💻 Aqui estão algumas das tecnologias que eu domino e estudo:
 
-#### Databases:
+- Linguagens de Programação:
 
-<img src="https://skillicons.dev/icons?i=postgres" />
+    [![My Skills](https://skillicons.dev/icons?i=javascript,java)](https://skillicons.dev)
+- Frameworks e Bibliotecas:
 
-#### Workstation Tools:
+    [![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,styledcomponents)](https://skillicons.dev)
+- Dados:
 
-<img src="https://skillicons.dev/icons?i=vscode" />
+    [![My Skills](https://skillicons.dev/icons?i=postgres,firebase,mongo)](https://skillicons.dev)
+- Ferramentas e Tecnologias:
 
-<h3 align="center">:dart: Objetivos para 2024+ :dart:</h3>
+    [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,github,docker,prisma)](https://skillicons.dev)
+- Desenvolvimento Web:
 
-&nbsp;
+    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-- Buscar desenvolver e aprimorar minhas soft/hard skills;
-- Desenvolver mais projetos para enriquecer meu portfólio;
-- Explorar novas linguagens de programação;
-- Ingressar no mercado de trabalho;
-- Começar meu próprio negócio.
+## Vamos Criar Algo Incrível! 💫
 
-&nbsp;
-&nbsp;
+💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
 
+<a href = "mailto:nathann.santoss2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nathannfs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+  
 <div  align="center" >
     <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathannfs&theme=blue-white" />
 </div>
 
-## Contacts:
- 
-<a href = "mailto:nathann.santoss2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/nathannfs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-  
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23238E&height=120&section=footer"/>
